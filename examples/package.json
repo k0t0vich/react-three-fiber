@@ -2,6 +2,7 @@
   "name": "examples-cra",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://k0t0vich.github.io/demo",
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
